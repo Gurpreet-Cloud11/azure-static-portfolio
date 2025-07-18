@@ -16,7 +16,7 @@ Hosted on Azure with a live URL anyone can access
 
 ## 🌐 Live Website
 
-🔗 [View the live site here]([https://your-azure-website-url](https://gurpreetstatic123.z33.web.core.windows.net/))
+🔗 [View the live site here](https://gurpreetstatic123.z33.web.core.windows.net/)
 
 ## 📌 Why I Built This
 
