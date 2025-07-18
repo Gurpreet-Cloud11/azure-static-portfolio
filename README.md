@@ -4,6 +4,9 @@ This is a simple static website I created and deployed using **Azure Blob Storag
 
 ![Website screenshot](./screenshot.png)
 
+> Screenshot of the deployed Azure-hosted static website.
+
+
 ## 🧠 What I Learned
 
 I learned how to create and configure a Storage Account in Azure  
