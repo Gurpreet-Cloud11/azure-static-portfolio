@@ -2,6 +2,8 @@
 
 This is a simple static website I created and deployed using **Azure Blob Storage** as part of my journey to become a Cloud Solutions Architect.
 
+![Website screenshot](./screenshot.png)
+
 ## 🧠 What I Learned
 
 I learned how to create and configure a Storage Account in Azure  
