@@ -1,36 +1,42 @@
-# 🚀 My First Static Website Hosted on Azure
+# Azure Static Website + Serverless Contact Form
 
-This is a simple static website I created and deployed using **Azure Blob Storage** as part of my journey to become a Cloud Solutions Architect.
+🚀 A simple portfolio project hosted on **Microsoft Azure**, featuring a contact form powered by **Azure Functions**.
 
-![Website screenshot](./screenshot.png)
+## 🌐 Live Site
 
-> Screenshot of the deployed Azure-hosted static website.
+🔗 [View the website](https://gurpreetstatic123.z33.web.core.windows.net/)
 
+## 📌 Project Features
 
-## 🧠 What I Learned
+- Static website hosted in Azure Blob Storage
+- Contact form built with HTML + JavaScript
+- Azure Function (Node.js) HTTP trigger for form submissions
+- CORS configured to allow frontend-backend communication
+- Shows a success message after form submission
 
-I learned how to create and configure a Storage Account in Azure  
-I enabled static website hosting using Blob Storage  
-I uploaded and managed files in the Azure Portal  
-I understood what endpoints are and how to access the live site
+## 💡 Why I Built This
 
-## 🔧 What's Inside
+This project demonstrates how to combine:
+- **Azure Blob Storage** for web hosting
+- **Azure Functions** for backend logic
+- A real frontend-to-backend integration using **cloud-native services**
 
-`index.html` — basic webpage built with HTML and a bit of styling  
-Hosted on Azure with a live URL anyone can access
+It's part of my journey toward becoming a **Cloud Solutions Architect**.
 
-## 🌐 Live Website
+## 🛠 Tech Stack
 
-🔗 [View the live site here](https://gurpreetstatic123.z33.web.core.windows.net/)
+- HTML & CSS
+- JavaScript (Vanilla)
+- Azure Blob Storage (Static Website)
+- Azure Functions (Node.js)
+- CORS
 
-## 📌 Why I Built This
+## 📸 Screenshot
 
-I wanted hands-on experience with cloud services and to show I can deploy something real. This is my first step into building real-world cloud projects.
+![Screenshot of site](screenshot.png)
 
-## 👋 About Me
+## 📬 Contact Me
 
-I currently work in tech support and I'm learning cloud on the side. My goal is to move into a cloud engineering or solutions architect role.
+Feel free to connect with me:
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/gurpreet-singh-0b6568238/)
-
-Built with focus and ambition by Gurpreet Singh
+[LinkedIn → Gurpreet Singh](https://www.linkedin.com/in/gurpreet-singh-0b6568238/)
